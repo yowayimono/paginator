@@ -1,7 +1,7 @@
 package paginator_test
 
 import (
-	"github.com/yowayimono/paginator"
+	paginator "github.com/yowayimono/gorm-paginator"
 	"log"
 	"testing"
 
