@@ -1,4 +1,4 @@
-module paginator
+module github.com/yowayimono/paginator
 
 go 1.20
 

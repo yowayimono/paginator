@@ -4,10 +4,10 @@ import (
 	"log"
 	"testing"
 
+	paginator "github.com/yowayimono/paginator/gormpaginator"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
-	paginator "paginator/gormpaginator"
 )
 
 type Country struct {
