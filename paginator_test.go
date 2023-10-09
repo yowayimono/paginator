@@ -1,10 +1,10 @@
-package gormpaginator_test
+package paginator_test
 
 import (
+	"github.com/yowayimono/paginator"
 	"log"
 	"testing"
 
-	paginator "github.com/yowayimono/paginator/gormpaginator"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

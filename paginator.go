@@ -1,4 +1,4 @@
-package gormpaginator
+package paginator
 
 import (
 	"gorm.io/gorm"
